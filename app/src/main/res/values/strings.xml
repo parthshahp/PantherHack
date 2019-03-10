@@ -84,4 +84,11 @@
     <string name="contact_us">Contact Us</string>
     <string name="button">Button</string>
     <string name="enter_college">Enter College</string>
+    <string name="groups">Groups</string>
+    <string name="textview">TextView</string>
+    <string name="group_image">group image</string>
+    <string name="panther_hackers">Panther Hackers</string>
+    <string name="panther_hackers">Panther Hackers</string><string name="georgia_state_university_s_largest_technology_focused_club_xd_working_on_involving_club_members_to_the_community_with_technology">x</string>
+    <string name="hide_group">Hide Group</string>
+    <string name="join_group">Join Group</string>
 </resources>
