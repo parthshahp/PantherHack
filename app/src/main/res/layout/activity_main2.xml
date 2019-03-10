@@ -56,7 +56,7 @@
         android:layout_height="100dp"
         android:contentDescription="@string/todo"
         tools:layout_editor_absoluteX="3dp"
-        tools:layout_editor_absoluteY="87dp"
+        tools:layout_editor_absoluteY="86dp"
         tools:srcCompat="@tools:sample/avatars" />
 
     <EditText
