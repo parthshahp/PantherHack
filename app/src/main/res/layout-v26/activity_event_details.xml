@@ -8,6 +8,11 @@
     android:fitsSystemWindows="true"
     tools:context=".EventDetails">
 
+    <include
+        android:id="@+id/include"
+        layout="@layout/content_event_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
     <ScrollView
         android:id="@+id/scrollView2"
@@ -117,6 +122,6 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Display3"
         app:layout_constraintBottom_toTopOf="@+id/scrollView2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" tools:targetApi="o"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
 </android.support.constraint.ConstraintLayout>

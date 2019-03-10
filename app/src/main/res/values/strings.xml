@@ -164,4 +164,11 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="event_1_details">Event 1 Details</string>
+    <string name="event_2_details">Event 2 Details</string>
+    <string name="event_3_detals">Event 3 Detals</string>
+    <string name="event_4_details">Event 4 Details</string>
+    <string name="event_5_details">Event 5 Details</string>
+    <string name="events_today">Events Today</string>
+    <string name="event_6_details">Event 6 Details</string>
 </resources>
