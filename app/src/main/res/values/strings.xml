@@ -79,4 +79,9 @@
     <string name="notifications_and_sounds">Notifications and Sounds</string>
     <string name="support">Support</string>
     <string name="todo">TODO</string>
+    <string name="faqs">FAQs</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="button">Button</string>
+    <string name="enter_college">Enter College</string>
 </resources>
