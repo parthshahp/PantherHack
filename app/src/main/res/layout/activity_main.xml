@@ -6,10 +6,19 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="242dp"
+        android:layout_height="52dp"
+        android:text="My Calendar"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="463dp" />
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:contentDescription="profilepicture"
         tools:layout_editor_absoluteX="141dp"
         tools:layout_editor_absoluteY="25dp"
         tools:srcCompat="@tools:sample/avatars" />
@@ -29,5 +38,15 @@
         android:text="Groups"
         tools:layout_editor_absoluteX="84dp"
         tools:layout_editor_absoluteY="373dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parth Shah"
+        android:textColor="@color/colorPrimary"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="116dp"
+        tools:layout_editor_absoluteY="170dp" />
 
 </android.support.constraint.ConstraintLayout>
